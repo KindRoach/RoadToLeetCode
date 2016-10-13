@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "406_QueueReconstructionByHe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "404_SumOfLeftLeaves", "404_SumOfLeftLeaves\404_SumOfLeftLeaves.csproj", "{8446B375-11B5-46CC-B8AF-254B1BBAFA92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "409_LongestPalindrome", "409_LongestPalindrome\409_LongestPalindrome.csproj", "{52DD959F-94D1-418D-84EF-2CABAF02E09B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8446B375-11B5-46CC-B8AF-254B1BBAFA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8446B375-11B5-46CC-B8AF-254B1BBAFA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8446B375-11B5-46CC-B8AF-254B1BBAFA92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DD959F-94D1-418D-84EF-2CABAF02E09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DD959F-94D1-418D-84EF-2CABAF02E09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DD959F-94D1-418D-84EF-2CABAF02E09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DD959F-94D1-418D-84EF-2CABAF02E09B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

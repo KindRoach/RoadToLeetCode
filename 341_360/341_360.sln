@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344_ReverseString", "344_ReverseString\344_ReverseString.csproj", "{001E46DE-C9A1-403E-A1C2-E63E031D1CB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "349_IntersectionOfTwoArrays", "349_IntersectionOfTwoArrays\349_IntersectionOfTwoArrays.csproj", "{B2A85DB3-B184-4A95-BE95-12D2BA6ECD7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347_TopKFrequentElements", "347_TopKFrequentElements\347_TopKFrequentElements.csproj", "{D5A8059E-013F-4980-B233-4A0449B075C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{001E46DE-C9A1-403E-A1C2-E63E031D1CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{001E46DE-C9A1-403E-A1C2-E63E031D1CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{001E46DE-C9A1-403E-A1C2-E63E031D1CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A85DB3-B184-4A95-BE95-12D2BA6ECD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A85DB3-B184-4A95-BE95-12D2BA6ECD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A85DB3-B184-4A95-BE95-12D2BA6ECD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A85DB3-B184-4A95-BE95-12D2BA6ECD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A8059E-013F-4980-B233-4A0449B075C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A8059E-013F-4980-B233-4A0449B075C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A8059E-013F-4980-B233-4A0449B075C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A8059E-013F-4980-B233-4A0449B075C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

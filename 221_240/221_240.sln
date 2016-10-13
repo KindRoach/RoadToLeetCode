@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226_InvertBinaryTree", "226_InvertBinaryTree\226_InvertBinaryTree.csproj", "{14975E49-C6F9-490B-9D5D-865A44D00BF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "238_ProductOfArrayExceptSelf", "238_ProductOfArrayExceptSelf\238_ProductOfArrayExceptSelf.csproj", "{42FBC6D9-752F-4754-A43E-4A1E002DC3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "237_DeleteNodeInLinkedList", "237_DeleteNodeInLinkedList\237_DeleteNodeInLinkedList.csproj", "{0A9831FF-A74C-4D83-A19D-DABC456AA50E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{14975E49-C6F9-490B-9D5D-865A44D00BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14975E49-C6F9-490B-9D5D-865A44D00BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14975E49-C6F9-490B-9D5D-865A44D00BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FBC6D9-752F-4754-A43E-4A1E002DC3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FBC6D9-752F-4754-A43E-4A1E002DC3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FBC6D9-752F-4754-A43E-4A1E002DC3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FBC6D9-752F-4754-A43E-4A1E002DC3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9831FF-A74C-4D83-A19D-DABC456AA50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9831FF-A74C-4D83-A19D-DABC456AA50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9831FF-A74C-4D83-A19D-DABC456AA50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9831FF-A74C-4D83-A19D-DABC456AA50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
