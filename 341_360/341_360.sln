@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "349_IntersectionOfTwoArrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347_TopKFrequentElements", "347_TopKFrequentElements\347_TopKFrequentElements.csproj", "{D5A8059E-013F-4980-B233-4A0449B075C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "357_CountNumbersWithUniqueDigits", "357_CountNumbersWithUniqueDigits\357_CountNumbersWithUniqueDigits.csproj", "{66B3080D-BD12-4CD3-8C42-4877EB95645D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D5A8059E-013F-4980-B233-4A0449B075C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A8059E-013F-4980-B233-4A0449B075C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A8059E-013F-4980-B233-4A0449B075C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B3080D-BD12-4CD3-8C42-4877EB95645D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B3080D-BD12-4CD3-8C42-4877EB95645D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B3080D-BD12-4CD3-8C42-4877EB95645D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B3080D-BD12-4CD3-8C42-4877EB95645D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
