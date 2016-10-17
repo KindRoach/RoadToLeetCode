@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "371SumOfTwoIntegers", "371SumOfTwoIntegers\371SumOfTwoIntegers.csproj", "{A038AAF7-3FB4-47E8-8290-D8F800DED491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "378_KthSmallestElementInSortedMatrix", "378_KthSmallestElementInSortedMatrix\378_KthSmallestElementInSortedMatrix.csproj", "{EEA54F64-E861-4A50-B0FE-4E9CF8751AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A038AAF7-3FB4-47E8-8290-D8F800DED491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A038AAF7-3FB4-47E8-8290-D8F800DED491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A038AAF7-3FB4-47E8-8290-D8F800DED491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA54F64-E861-4A50-B0FE-4E9CF8751AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA54F64-E861-4A50-B0FE-4E9CF8751AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA54F64-E861-4A50-B0FE-4E9CF8751AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA54F64-E861-4A50-B0FE-4E9CF8751AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
