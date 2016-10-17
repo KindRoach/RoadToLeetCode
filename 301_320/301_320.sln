@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "319_BulbSwitcher", "319_BulbSwitcher\319_BulbSwitcher.csproj", "{8E45E8D1-082C-40F4-84EC-816629AF4656}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "318_MaximumProductOfWordLengths", "318_MaximumProductOfWordLengths\318_MaximumProductOfWordLengths.csproj", "{5566278B-9373-4C63-90EC-81DF272CA289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8E45E8D1-082C-40F4-84EC-816629AF4656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E45E8D1-082C-40F4-84EC-816629AF4656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E45E8D1-082C-40F4-84EC-816629AF4656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5566278B-9373-4C63-90EC-81DF272CA289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5566278B-9373-4C63-90EC-81DF272CA289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5566278B-9373-4C63-90EC-81DF272CA289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5566278B-9373-4C63-90EC-81DF272CA289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
